@@ -2,9 +2,9 @@ Patients with type 1 diabetes will need to take insulin injections for the rest 
 
 Type 2 patients need to eat healthily, be physically active, and test their blood glucose. They may also need to take oral medication, and/or insulin to control blood glucose levels.
 
-Treatment for type 1 diabetes includes:
+Examples of potential type 1 diabetes therapies include:
 
-Taking insulin
+Taking insulin ( by syring, an insulin pen or insulin pump)
 Carbohydrate, fat and protein counting
 Frequent blood sugar monitoring
 Eating healthy foods
@@ -12,10 +12,10 @@ Exercising regularly and maintaining a healthy weight
 
 Types of insulin are many and include:
 
-Short-acting (regular) insulin
-Rapid-acting insulin
-Intermediate-acting (NPH) insulin
-Long-acting insulin
+Short-acting (regular) insulin (eg. Humulin R, Novolin R and Afrezza)
+Rapid-acting insulin (eg. glulisine, lispro and aspart)
+Intermediate-acting (NPH) insulin (eg. insulin NPH)
+Long-acting insulin (eg. degludec, glargine, detemir)
 
 Other Medications:
 
@@ -26,14 +26,18 @@ Cholesterol-lowering drugs
 Treatment for type 2 diabetes includes:
 
 Healthy eating
-Regular exercise
+Taking action
+Losing weight
+Avoiding prolonged idleness
 Possibly, diabetes medication or insulin therapy
 Blood sugar monitoring
 
-Examples of possible treatments for type 2 diabetes include:
+Examples of potential type 2 diabetes therapies include:
 
 Metformin (Glucophage, Glumetza, others)
 Sulfonylureas
-Meglitinides
+Glinides
 Thiazolidinediones
+DPP-4 inhibitors
+GLP-1 receptor agonists
 Insulin therapy
